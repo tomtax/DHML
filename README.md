@@ -22,6 +22,8 @@ ML models on the original dataset enhanced by additional market and financial ra
 - DataManipulation_DailyReturns: cleaning the daily data, induction of day and week-based variables.
 - DataManipulation_Monthly: Creation of Base, Market, and Financials datasets used to train models.
 - Results__ notebooks: Contain evaluation of predictive performance of ML models and backtesting of the resulting portfolios.
+
+
 Folders:
 - BaseData__ folders: contain cross-validation and predictions of ML models trained on the Base dataset. Contains stock sorting and portfolio formation.
 - MarketData folder: contains cross-validation and predictions of ML models trained on the Market dataset. Contains stock sorting and portfolio formation.
