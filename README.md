@@ -20,5 +20,10 @@ ML models on the original dataset enhanced by additional market and financial ra
 
 ## Contents:
 Prefix 01: Data cleaning and feature induction
+
 Prefix 02: Modelling, predictions, portfolio forming
+
 Prefix 03: Results
+
+## Data:
+The data was too big to be uploaded on github. UniVien members can access the original data via u:Cloud. Link: https://ucloud.univie.ac.at/index.php/s/bK4LY66QXPKJsHy
